@@ -4,6 +4,7 @@ export interface PickerOptions {
     noImagesTitle?: string;
     allowVideoSelection?: boolean;
     imageLimit?: number;
+    recordLocation?: boolean;
 }
 
 export declare class RadImagepicker extends Common {
