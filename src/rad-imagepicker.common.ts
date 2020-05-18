@@ -11,4 +11,5 @@ export interface PickerOptions {
   noImagesTitle?: string;
   allowVideoSelection?: boolean;
   imageLimit?: number;
+  recordLocation?: boolean;
 }

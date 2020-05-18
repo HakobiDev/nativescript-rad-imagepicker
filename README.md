@@ -1,5 +1,9 @@
 # NativeScript Rad Imagepicker Plugin ![apple](https://cdn3.iconfinder.com/data/icons/picons-social/57/16-apple-32.png) ![android](https://cdn4.iconfinder.com/data/icons/logos-3/228/android-32.png)
 
+This is a very slightly modified plugin. Original is here: https://github.com/nstudio/nativescript-rad-imagepicker
+
+This version adds `recordLocation` to the configurable options.
+
 NativeScript plugin for whatsapp style image picking. 
 This Plugin uses [PixImagePicker](https://github.com/akshay2211/PixImagePicker) for Android and [ImagePicker](https://github.com/hyperoslo/ImagePicker) for iOS
 
@@ -7,9 +11,7 @@ This Plugin uses [PixImagePicker](https://github.com/akshay2211/PixImagePicker) 
 
 ## Installation
 
-```javascript
-tns plugin add @nstudio/nativescript-rad-imagepicker
-```
+Add `https://github.com/neil-119/nativescript-rad-imagepicker` via NPM (direct link)
 
 ## Usage 
 	
@@ -35,6 +37,7 @@ PickerOptions {
     doneButtonTitle?: string; // only affects ios
     noImagesTitle?: string; // only affects ios
     allowVideoSelection?: boolean; // only affects ios
+    recordLocation?: boolean; // only affects ios
     imageLimit?: number;
 }
 ```

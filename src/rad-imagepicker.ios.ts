@@ -43,6 +43,9 @@ export class RadImagepicker extends Common {
                 if (options.allowVideoSelection !== undefined) {
                     config.allowVideoSelection = options.allowVideoSelection;
                 }
+                if (options.recordLocation !== undefined) {
+                    config.recordLocation = options.recordLocation;
+                }
             }
 
             imagePickerController.initWithConfiguration(config);
