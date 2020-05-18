@@ -15,6 +15,9 @@ This Plugin uses [PixImagePicker](https://github.com/akshay2211/PixImagePicker) 
 npm install nativescript-rad-imagepicker-with-loc
 ```
 
+you will need to reference the above package in place of @nstudio/nativescript-rad-imagepicker' below
+
+
 ## Usage 
 	
 ```javascript
