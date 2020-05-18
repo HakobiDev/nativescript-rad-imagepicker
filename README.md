@@ -12,7 +12,7 @@ This Plugin uses [PixImagePicker](https://github.com/akshay2211/PixImagePicker) 
 ## Installation
 
 ```
-npm install @nstudio/nativescript-rad-imagepicker-with-loc
+npm install nativescript-rad-imagepicker-with-loc
 ```
 
 ## Usage 
