@@ -1,5 +1,5 @@
 {
-  "name": "@nstudio/nativescript-rad-imagepicker",
+  "name": "@nstudio/nativescript-rad-imagepicker-with-loc",
   "version": "2.0.4",
   "description": "Whatsapp style imagepicker for NativeScript apps",
   "main": "rad-imagepicker",
@@ -38,14 +38,14 @@
   ],
   "author": "MultiShiv19 <sp@shiv19.com> (https://shiv19.com)",
   "repository": {
-    "url": "git+https://github.com/nstudio/nativescript-rad-imagepicker.git",
+    "url": "git+https://github.com/neil-119/nativescript-rad-imagepicker.git",
     "type": "git"
   },
   "bugs": {
     "url": "https://github.com/nstudio/nativescript-rad-imagepicker/issues"
   },
   "license": "Apache-2.0",
-  "homepage": "https://github.com/nstudio/nativescript-rad-imagepicker",
+  "homepage": "https://github.com/neil-119/nativescript-rad-imagepicker",
   "devDependencies": {
     "tns-core-modules": "^4.0.0",
     "tns-platform-declarations": "^4.0.0",
