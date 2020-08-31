@@ -2,7 +2,7 @@
 
 This is a very slightly modified plugin. Original is here: https://github.com/nstudio/nativescript-rad-imagepicker
 
-This version adds `recordLocation` to the configurable options.
+This version adds `recordLocation` to the configurable options and fixes an issue with the originally chosen MVN repository for Glide when building the app.
 
 NativeScript plugin for whatsapp style image picking. 
 This Plugin uses [PixImagePicker](https://github.com/akshay2211/PixImagePicker) for Android and [ImagePicker](https://github.com/hyperoslo/ImagePicker) for iOS
