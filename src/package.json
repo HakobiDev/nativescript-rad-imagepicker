@@ -1,6 +1,6 @@
 {
   "name": "nativescript-rad-imagepicker-with-loc",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Whatsapp style imagepicker for NativeScript apps",
   "main": "rad-imagepicker",
   "typings": "index.d.ts",
